@@ -1,0 +1,11 @@
+.weatherDetails {
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+  padding: 10px;
+  margin: 5px;
+}
+
+.conditions {
+  text-transform: capitalize;
+}

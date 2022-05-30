@@ -1,0 +1,27 @@
+.WeatherCard {
+  padding: 10px;
+  border-radius: 15px;
+  background-color: white;
+}
+
+.WeatherCard-section {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.temp {
+  padding-left: 10px;
+  font-size: 300%;
+}
+.WeatherCard-right__feels {
+  display: flex;
+  flex-direction: column;
+}
+.weatherCard-right {
+  line-height: 1.5;
+  padding: 10px;
+}
+
+.icon {
+  margin-right: 5px;
+}
